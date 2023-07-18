@@ -1,4 +1,4 @@
-# Lung-Disease
+# Lung Disease Detection
 Lung Disease Using Deep Learning
 This project aims to build a lung disease detection model using the VGG16 convolutional neural network architecture. The model will be trained on a dataset of chest X-ray images to classify them as either normal or showing signs of pneumonia.
 
